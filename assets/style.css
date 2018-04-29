@@ -1,0 +1,33 @@
+.jumbo{
+
+	text-align: center;
+	color: white; 
+	background-color: #811414; 
+	
+}
+
+.cardTitle{
+	text-align: center;
+	font-weight: 600; 
+}
+
+.cardHeader{
+	color: white;
+	font-size: 1rem; 
+	font-weight: bold;
+}
+
+.formLabel{
+	margin-bottom: 0.5%; 
+	margin-top: 1%; 
+	margin-left: 1%;
+	font-weight: 600;
+	font-size: 1rem;
+
+}
+
+.formInput{
+	margin-left: 1%;
+	margin-right: 1%; 
+	width: 98%; 
+}
